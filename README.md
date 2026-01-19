@@ -9,16 +9,16 @@
 - XML UI
 - Single-Activity 
 - Fragments
-- Navigation Component
+- Navigation Component (Navigation Graph)
 - ViewModel
 - DataBinding
-- Clean Architecture
+- Clean Architecture (data / domain / presentation)
 
 ---
 
 ## Навигация
 
-Приложение использует Single-Activity подход.  
+Приложение построено по Single-Activity подходу.    
 Все экраны реализованы через Fragment’ы и связаны с помощью Navigation Graph.
 
 ---
