@@ -8,15 +8,20 @@
 
 ---
 
+## Запуск
+1. Склонировать репозиторий
+2. Открыть проект в Android Studio
+3. Запустить конфигурацию `app`
+
+---
+
 ## Стек
 - Kotlin
-- XML UI
-- Single-Activity 
-- Fragments
-- Navigation Component (Navigation Graph)
-- ViewModel
-- DataBinding
-- Clean Architecture (data / domain / presentation)
+- **UI:** XML + DataBinding
+- **Screens:** Single-Activity + Fragments
+- **Navigation:** Navigation Component (Navigation Graph)
+- **Presentation:** ViewModel + LiveData
+- **Architecture:** Clean (data / domain / presentation)
 
 ---
 
